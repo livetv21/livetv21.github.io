@@ -33,19 +33,25 @@ http://15.235.212.156:25461/live/MM664662/MM664665/18.ts
 http://15.235.212.156:25461/live/MM664662/MM664665/19.ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 HD
-http://5.62.130.10:80/iptv/iptv/28.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24929
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 HD
-http://5.62.130.10:80/iptv/iptv/29.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24930
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 HD
-http://5.62.130.10:80/iptv/iptv/32.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24931
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 HD
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24932
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 SD
-http://5.62.130.10/iptv/iptv/30.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24920
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 SD
-http://5.62.130.10/iptv/iptv/31.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24921
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 SD
-http://5.62.130.10/iptv/iptv/39.ts
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24922
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 SD
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24923
